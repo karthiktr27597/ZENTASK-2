@@ -1,0 +1,18 @@
+
+Difference between Document and Windows Object
+-----------------------------------------------------
+Answer:
+
+The Window Object
+
+1. The window object represents an open window in a browser (or) It represents the browser's window.
+2. All global JavaScript objects, functions, and variables automatically become members of the window object. 
+3. Global variables are properties of the window object. Global functions are methods of the window object.
+4. The window object is accessed with: Windows in console.
+
+The Document Object
+
+1. When an HTML document is loaded into a web browser, it becomes a document object.
+2. The document object is the root node of the HTML document.
+3. The document object is a property of the window object.
+4. The document object is accessed with: window.document or just document.
