@@ -1,2 +1,2 @@
-# ZENTASK-2 JS
+# ZENTASK-2  JS
 Different between Document and Windows Objects
